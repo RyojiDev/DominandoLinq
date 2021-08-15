@@ -1,0 +1,13 @@
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.exe
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.deps.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.runtimeconfig.dev.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\bin\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.AssemblyInfo.cs
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.genruntimeconfig.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\HtmlEditor\obj\Debug\netcoreapp3.1\HtmlEditor.csproj.AssemblyReference.cache

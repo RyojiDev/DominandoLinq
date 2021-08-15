@@ -1,0 +1,13 @@
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.csprojAssemblyReference.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.AssemblyInfoInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.AssemblyInfo.cs
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.csproj.CoreCompileInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.exe
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.deps.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.runtimeconfig.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.runtimeconfig.dev.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\bin\Debug\netcoreapp3.1\moedas.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\MaoNaMassaBalta.IO\moedas\obj\Debug\netcoreapp3.1\moedas.genruntimeconfig.cache

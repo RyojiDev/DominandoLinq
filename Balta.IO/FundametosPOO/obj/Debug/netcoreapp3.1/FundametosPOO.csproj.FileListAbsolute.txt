@@ -1,0 +1,13 @@
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.exe
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.deps.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.runtimeconfig.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.runtimeconfig.dev.json
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\bin\Debug\netcoreapp3.1\FundametosPOO.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.csprojAssemblyReference.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.AssemblyInfoInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.AssemblyInfo.cs
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.csproj.CoreCompileInputs.cache
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.dll
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.pdb
+C:\Users\ryoji_kitano\Documents\Ryoji\Cursos\Projetos\FundametosPOO\obj\Debug\netcoreapp3.1\FundametosPOO.genruntimeconfig.cache
